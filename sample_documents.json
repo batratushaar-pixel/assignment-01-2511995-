@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 60000,
+    "specs": {
+      "warranty": "1 year",
+      "voltage": "220V"
+    }
+  },
+  {
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 1000,
+    "sizes": ["S","M","L"]
+  },
+  {
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 50,
+    "expiry_date": "2024-12-01"
+  }
+]
